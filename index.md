@@ -1,8 +1,8 @@
 ## Hi
 
-My website ahaha
+This is my website ahaha
 
-_my twitter: https://twitter.com/Talyeeee_
+[_My twitter_](https://twitter.com/Talyeeee)
 
 ### Stuff
 
