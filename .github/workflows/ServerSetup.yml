@@ -23,7 +23,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Actions
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2- 
+      - name: Setup MySQL
+        uses: mirromutth/mysql-action@v1.1
       - name: Setup PHP Action
         uses: shivammathur/setup-php@2.11.0
         
